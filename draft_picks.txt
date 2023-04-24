@@ -1,0 +1,2 @@
+Player 1: Houston Astros,Philadelphia Phillies,Seattle Mariners,San Francisco Giants,Boston Red Sox,Oakland Athletics
+Player 2: Tampa Bay Rays,Milwaukee Brewers,Cleveland Guardians,Arizona Diamondbacks,Pittsburgh Pirates,Oakland Athletics
